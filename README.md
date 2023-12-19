@@ -9,6 +9,7 @@
   <br>
  
   #### The goal of the game is to achieve the highest possible score by consuming the food 🍕. If obstacles like walls obstruct your path, you can eliminate them (by launching bombs) and must obtain the food before the time runs out.
+</details>
   
 <details>
   <summary>
@@ -17,7 +18,7 @@
   <br>
  
   #### In the initial level, you are allotted 15 seconds, followed by 10 seconds for the second level, and only 5 seconds for the final one. Both the walls and the food are randomly generated.
-
+</details>
 
 <details>
   <summary>
@@ -38,7 +39,8 @@ Resistors
 Buzzer
 Potentiometer
  
- 
+</details>
+
   ### [Code]()
   ### [Video]()
   ### 
