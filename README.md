@@ -30,7 +30,12 @@
  
 </details>
 
-  ### [Code]()
+
+### ![BS](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/0efe9677-4932-49a5-9b94-b611bfe57a75)
+### ![PinConf](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/9514c2d8-aec0-43e7-baa0-3ec08dcb9c73)
+### ![Tabel](https://github.com/Diana5B/IntroductionToRobotics/assets/115624763/d71e09c4-5bd9-408b-8a6e-f8957d23e369)
+
+  ### [Code](https://github.com/Diana5B/Matrix-Project/blob/main/FoodFinder.ino)
   ### [Video]()
   ### ![matrix](https://github.com/Diana5B/Matrix-Project/assets/115624763/c1794695-346d-47ad-abbe-4251c9040943)
 
