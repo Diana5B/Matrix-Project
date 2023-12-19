@@ -13,7 +13,7 @@
   
 <details>
   <summary>
-      <h2>Game levels</h2>
+      <h1>Game levels</h1>
   </summary>
   <br>
  
@@ -22,7 +22,7 @@
 
 <details>
   <summary>
-      <h3>Used components</h3>
+      <h1>Used components</h1>
   </summary>
   <br>
  
