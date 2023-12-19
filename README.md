@@ -26,23 +26,12 @@
   </summary>
   <br>
  
-  #### For this project, I utilized the following components:
-
-Arduino UNO
-16x2 LCD
-8x8 LED matrix
-MAX7219 driver
-Joystick
-10μF electrolytic capacitor
-104pF ceramic capacitor
-Resistors
-Buzzer
-Potentiometer
+  #### For this project, I utilized the following components: arduino UNO, 16x2 LCD, 8x8 LED matrix, MAX7219 driver, joystick, 10μF electrolytic capacitor, 104pF ceramic capacitor, resistors, buzzer, potentiometer, wires
  
 </details>
 
   ### [Code]()
   ### [Video]()
-  ### 
+  ### ![matrix](https://github.com/Diana5B/Matrix-Project/assets/115624763/c1794695-346d-47ad-abbe-4251c9040943)
+
   
-</details>
